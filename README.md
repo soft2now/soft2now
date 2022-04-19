@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soft2now
-- 👀 Soft2now is a freelance agency and provides software services on the internet. ...
-- 🌱 I’m currently learning Dart
-- 💞️ I’m looking to collaborate on ...
+- 👀 Soft2now es una plataforma freelance dedicada al desarrollo de aplicaciones web y móviles a un bajo costo al mes y con facilidad de montar tú ecommerce.
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Hello World
 - 📫 How to reach me ...
 
 <!---
