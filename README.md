@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soft2now
-- 👀 Soft2now es una plataforma freelance dedicada al desarrollo de aplicaciones web y móviles a un bajo costo al mes y con facilidad de montar tú ecommerce.
+- 👀 Soft2now is a freelance platform dedicated to the development of web and mobile applications at a low cost per month and with ease of setting up your ecommerce.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Hello World
 - 📫 How to reach me ...
