@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @soft2now
-- 👀 Soft2now is a freelance platform dedicated to the development of web and mobile applications at a low cost per month and with ease of setting up your ecommerce.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Hello World
-- 📫 How to reach me ...
-
-<!---
-soft2now/soft2now is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+"🚀 Bienvenidos a Soft2now! Somos una apasionada y creativa equipo de desarrollo de software, enfocado en impulsar la transformación digital de tu negocio. 💻💡 Nuestro objetivo es proporcionarte soluciones tecnológicas a medida que potencien la eficiencia, la productividad y el crecimiento sostenible de tu empresa. 🌐💼 Con experiencia en desarrollo de software, diseño web, consultoría tecnológica y más, estamos listos para llevar tu presencia en línea al siguiente nivel. 🚀 ¡Únete a nosotros en este emocionante viaje hacia el futuro tecnológico! ✨🔧 #Innovación #TransformaciónDigital #DesarrolloWeb"
